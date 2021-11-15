@@ -12,7 +12,7 @@ module.exports = {
     sequelize: {
         database: 'BDmusicalibre', 
         username: 'postgres',
-        password: 'Yury1977',
+        password: '',
         host: 'localhost',
         port: 5432,
     },
