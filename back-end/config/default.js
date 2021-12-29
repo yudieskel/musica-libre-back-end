@@ -17,5 +17,5 @@ module.exports = {
         port: 5432,
     },
 
-    adminAPI: 'okumqjxvrcksqkuh'
+    adminAPI: ''
 }
